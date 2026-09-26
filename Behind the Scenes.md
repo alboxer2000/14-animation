@@ -16,3 +16,14 @@ I removed the calendar and the screenshot from the monitor, then saved this vers
 
 I also changed (that you can see from the screenshot) the Bad Piggies window.
 Originally, it was supposed to be someone getting a virus (aka Roxer) since it was a fake Bad Piggies. The virus window references Protegent.
+
+I finished making this in 8 WHOLE HOURS (30 minute break time total) in 1 day. Told you it took a while! I think this is the project that took the most time to make.
+
+## Other stuff
+
+The windows are actually **error windows**. You can actually drag the pictures **off** in the costume editor!
+If you're too lazy to do that, I will show the original, (sadly) compressed ones.
+
+
+<img width="518" height="471" alt="canvas2" src="https://github.com/user-attachments/assets/d465ae42-98d7-42f5-bfff-2e3f3f2ecfd6" />
+<img width="812" height="654" alt="Screenshot 2026-09-26 alle 2" src="https://github.com/user-attachments/assets/a99ba62d-ee98-43ca-8ac8-35bca3838b3c" />
