@@ -27,6 +27,10 @@ _How it should look like_ (this looks higher quality since it's vector)
 
 _How it looks like_
 
+The part that changed the most was the monitor scene, but most of them were minor.
+
+After the monitor was shown, I wanted Roxer's eyes to shake and look at his green human hands (from an old unreleased animation) with the pictures still over but never felt the urge to animate it.
+
 ## Other stuff
 
 I finished making this in 10 WHOLE HOURS _(counting 1h 30min break time in total so 8h 30min of work)_ in 1 day. Told you it took a while! I think this is the project that took the most time to make. I've also never documented one of my projects like this, so this is my first time doing this!
@@ -45,10 +49,6 @@ I also had a fight with Safari.
 There's this bug where a tab's audio after a while just **disappears**. I had to refresh the page 15 times and close it 5 times. That stole 3 whole minutes of my time.
 
 I also rewatched the animation 40 times to see if I could add, fix or remove something. So that used 30 minutes.
-
-## What got scrapped
-
-After the monitor scene, I wanted Roxer's eyes to shake and look at his green human hands (from an old unreleased animation) but never felt the urge to animate it.
 
 ### What accidentally happened
 
