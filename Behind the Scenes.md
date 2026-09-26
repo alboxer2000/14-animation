@@ -27,6 +27,8 @@ _How it should look like_ (this looks higher quality since it's vector)
 
 _How it looks like_
 
+After I had animated for 5 hours, I noticed that the Windows 7 style didn't really fit. It was too late so I kept it.
+
 The part that changed the most was the monitor scene, but most of them were minor.
 
 After Roxer's eyes shook down, I wanted him to look at his green human hands (from an old unreleased animation) with the pictures still over but never felt the urge to do it.
