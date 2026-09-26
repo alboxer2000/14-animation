@@ -29,7 +29,7 @@ _How it looks like_
 
 ## Other stuff
 
-I finished making this in 8 WHOLE HOURS (30 minute break time total) in 1 day. Told you it took a while! I think this is the project that took the most time to make.
+I finished making this in 10 WHOLE HOURS _(counting 1h 30min break time in total so 8h 30min of work)_ in 1 day. Told you it took a while! I think this is the project that took the most time to make.
 
 The windows are actually **error windows**. You can actually drag the pictures **off** in the costume editor!
 If you're too lazy to do that, I will show the original, (sadly) compressed ones.
