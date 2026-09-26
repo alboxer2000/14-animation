@@ -17,9 +17,9 @@ I removed the calendar and the screenshot from the monitor, then saved this vers
 I also changed (that you can see from the screenshot) the Bad Piggies window.
 Originally, it was supposed to be someone getting a virus (aka Roxer) since it was a fake Bad Piggies. The virus window references Protegent.
 
-I finished making this in 8 WHOLE HOURS (30 minute break time total) in 1 day. Told you it took a while! I think this is the project that took the most time to make.
-
 ## Other stuff
+
+I finished making this in 8 WHOLE HOURS (30 minute break time total) in 1 day. Told you it took a while! I think this is the project that took the most time to make.
 
 The windows are actually **error windows**. You can actually drag the pictures **off** in the costume editor!
 If you're too lazy to do that, I will show the original, (sadly) compressed ones.
@@ -29,3 +29,7 @@ If you're too lazy to do that, I will show the original, (sadly) compressed ones
 <img width="812" height="654" alt="Screenshot 2026-09-26 alle 2" src="https://github.com/user-attachments/assets/a99ba62d-ee98-43ca-8ac8-35bca3838b3c" />
 
 You can see the issues I had in the Issues tab.
+
+I also had a fight with Safari.
+
+There's this bug where a tab's audio after a while just **disappears**. I had to refresh the page 15 times and close it 5 times. That stole 3 whole minutes of my time.
