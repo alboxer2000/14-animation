@@ -28,6 +28,9 @@ _How it should look like_ (this looks higher quality since it's vector)
 _How it looks like_
 
 After I had animated for 5 hours, I noticed that the Windows 7 style didn't really fit. It was too late so I kept it.
+<img width="1029" height="669" alt="Screenshot 2026-09-26 alle 21 22 54" src="https://github.com/user-attachments/assets/dabab595-b646-4a35-9569-6760a1d5d151" />
+
+_Me when I realized_
 
 The part that changed the most was the monitor scene, but most of them were minor.
 
