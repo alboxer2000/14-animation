@@ -19,6 +19,14 @@ Originally, it was supposed to be someone getting a virus (aka Roxer) since it w
 
 I never changed the zooming in the blog to match the current Bad Piggies window so it's a bit larger than before.
 
+<img width="256" height="253" alt="Screenshot 2026-09-26 alle 20 31 26" src="https://github.com/user-attachments/assets/a6854317-d5b0-4c8f-9210-4fcc047ab392" />
+
+_How it should look like_ (this looks higher quality since it's vector)
+
+<img width="288,5" height="249,5" alt="Screenshot 2026-09-26 alle 20 31 38" src="https://github.com/user-attachments/assets/c25faeec-73bc-4498-92e7-7d199f52a527" />
+
+_How it looks like_
+
 ## Other stuff
 
 I finished making this in 8 WHOLE HOURS (30 minute break time total) in 1 day. Told you it took a while! I think this is the project that took the most time to make.
