@@ -12,7 +12,7 @@ _The screenshot._
 
 
 Then I decided to make this release the 27th, the day of the anniversary.
-I removed the calendar and the screenshot from the monitor, then saved this version.
+I removed the calendar and the screenshot from the monitor, then saved this version (TOMORROW..sb3).
 
 I also changed (that you can see from the screenshot) the Bad Piggies window.
 Originally, it was supposed to be someone getting a virus (aka Roxer) since it was a fake Bad Piggies. The virus window references Protegent.
