@@ -46,4 +46,4 @@ There's this bug where a tab's audio after a while just **disappears**. I had to
 
 ## What got scrapped
 
-After the monitor scene, I wanted Roxer's eyes to shake and look at his green human hands (from an old unreleased animation) but never got the urge to animate it.
+After the monitor scene, I wanted Roxer's eyes to shake and look at his green human hands (from an old unreleased animation) but never felt the urge to animate it.
