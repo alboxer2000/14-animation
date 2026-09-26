@@ -4,7 +4,7 @@ Wow this took a WHILE to make. There were a LOT of changes. (The oldest version 
 
 ## What changed?
 
-This originally was planned to release the 26th of September (when I started this). You can see proof of this from the earliest version (TOMORROW..sb3). The proof is the file name and there originally was a screenshot of the project where there was a calendar that then got removed for the reason after.
+This originally was planned to release the 26th of September (when I started this). You can see proof of this from the earliest version (TOMORROW..sb3). The proof is the file name and there originally was a screenshot of the project where there was a calendar that then got removed for the reason after. Forgot to move Bongo Cat out of the way so he stayed there.
 
 <img width="397" height="298,5" alt="Screenshot 2026-09-26 alle 15 53 54" src="https://github.com/user-attachments/assets/fa753eb6-865c-49ca-bb8a-5c21218b0128" />
 
@@ -27,3 +27,5 @@ If you're too lazy to do that, I will show the original, (sadly) compressed ones
 
 <img width="518" height="471" alt="canvas2" src="https://github.com/user-attachments/assets/d465ae42-98d7-42f5-bfff-2e3f3f2ecfd6" />
 <img width="812" height="654" alt="Screenshot 2026-09-26 alle 2" src="https://github.com/user-attachments/assets/a99ba62d-ee98-43ca-8ac8-35bca3838b3c" />
+
+You can see the issues I had in the Issues tab.
