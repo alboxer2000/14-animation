@@ -9,3 +9,5 @@ I forgot to save them.
 [SpongeBob SquarePants SuperSponge - Vs. Patrick by QuietRiot](https://www.youtube.com/watch?v=dKMaccR4yIE). I did credit him in the sound name. That is also the reason you can hear Patrick at the start.
 ## What do the pictures mean?
 It expresses nostalgia.
+## Why doesn't Bad Piggies load?
+Don't want to play a GIF.
