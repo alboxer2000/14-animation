@@ -17,13 +17,13 @@ I removed the calendar and the screenshot from the monitor, then saved this vers
 I also changed (that you can see from the screenshot) the Bad Piggies window.
 Originally, it was supposed to be someone getting a virus (aka Roxer) since it was a fake Bad Piggies. The virus window references Protegent.
 
-_Me when I realized_
-
 The part that changed the most was the monitor scene, but most of them were minor.
 
 After Roxer's eyes shook down, I wanted him to look at his green human hands (from an old unreleased animation) with the pictures still over but never felt the urge to do it.
 
 I also accidentally made the images changing kinda on rhythm and put an easter egg where if you █████████████████████████████████████████████████████████████████!
+
+Then at the last minute I noticed that the blog didn't fit the style, since it said 14 and the title was 2012ish. I changed it immediately (Issue #9).
 
 ## Other stuff
 
