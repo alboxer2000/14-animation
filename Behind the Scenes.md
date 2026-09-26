@@ -17,6 +17,8 @@ I removed the calendar and the screenshot from the monitor, then saved this vers
 I also changed (that you can see from the screenshot) the Bad Piggies window.
 Originally, it was supposed to be someone getting a virus (aka Roxer) since it was a fake Bad Piggies. The virus window references Protegent.
 
+I never changed the zooming in the blog to match the current Bad Piggies window so it's a bit larger than before.
+
 ## Other stuff
 
 I finished making this in 8 WHOLE HOURS (30 minute break time total) in 1 day. Told you it took a while! I think this is the project that took the most time to make.
