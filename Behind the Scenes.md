@@ -43,3 +43,7 @@ You can see the issues I had in the Issues tab.
 I also had a fight with Safari.
 
 There's this bug where a tab's audio after a while just **disappears**. I had to refresh the page 15 times and close it 5 times. That stole 3 whole minutes of my time.
+
+## What got scrapped
+
+After the monitor scene, I wanted Roxer's eyes to shake and look at his green human hands (from an old unreleased animation) but never got the urge to animate it.
