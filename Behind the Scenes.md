@@ -17,19 +17,6 @@ I removed the calendar and the screenshot from the monitor, then saved this vers
 I also changed (that you can see from the screenshot) the Bad Piggies window.
 Originally, it was supposed to be someone getting a virus (aka Roxer) since it was a fake Bad Piggies. The virus window references Protegent.
 
-I never changed the zooming in the blog to match the current Bad Piggies window so it's a bit larger than before.
-
-<img width="256" height="253" alt="Screenshot 2026-09-26 alle 20 31 26" src="https://github.com/user-attachments/assets/a6854317-d5b0-4c8f-9210-4fcc047ab392" />
-
-_How it should look like_ (this looks higher quality since it's vector)
-
-<img width="288,5" height="249,5" alt="Screenshot 2026-09-26 alle 20 31 38" src="https://github.com/user-attachments/assets/c25faeec-73bc-4498-92e7-7d199f52a527" />
-
-_How it looks like_
-
-After I had animated for 5 hours, I noticed that the Windows 7 style didn't really fit. It was too late so I kept it.
-<img width="1029" height="669" alt="Screenshot 2026-09-26 alle 21 22 54" src="https://github.com/user-attachments/assets/dabab595-b646-4a35-9569-6760a1d5d151" />
-
 _Me when I realized_
 
 The part that changed the most was the monitor scene, but most of them were minor.
