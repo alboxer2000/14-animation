@@ -29,7 +29,9 @@ _How it looks like_
 
 The part that changed the most was the monitor scene, but most of them were minor.
 
-After the monitor was shown, I wanted Roxer's eyes to shake and look at his green human hands (from an old unreleased animation) with the pictures still over but never felt the urge to animate it.
+After Roxer's eyes shook down, I wanted him to look at his green human hands (from an old unreleased animation) with the pictures still over but never felt the urge to do it.
+
+I also accidentally made the images changing kinda on rhythm.
 
 ## Other stuff
 
