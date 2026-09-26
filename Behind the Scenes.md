@@ -47,3 +47,7 @@ There's this bug where a tab's audio after a while just **disappears**. I had to
 ## What got scrapped
 
 After the monitor scene, I wanted Roxer's eyes to shake and look at his green human hands (from an old unreleased animation) but never felt the urge to animate it.
+
+### What accidentally happened
+
+I accidentally technically leaked this project. Not completely, only the thumbnail. You could've seen (for 2 hours after the announcement) a picture of the project before it came out. That's because I updated my [wiki](https://github.com/alboxer2000/wiki/wiki) to say that the latest appearance of Roxer was here, before the project was even announced. So if you went in the Scratch API and requested the project's thumbnail, you could've seen my project. Luckily TurboWarp doesn't show unshared projects anymore :D
