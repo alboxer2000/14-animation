@@ -47,3 +47,4 @@ I also rewatched the animation 40 times to see if I could add, fix or remove som
 ### What accidentally happened
 
 I accidentally technically leaked this project. Not completely, only the thumbnail. You could've seen (for 2 hours after the announcement) a picture of the project before it came out. That's because I updated my [wiki](https://github.com/alboxer2000/wiki/wiki) to say that the latest appearance of Roxer was here, before the project was even announced. So if you went in the Scratch API and requested the project's thumbnail, you could've seen my project. Luckily TurboWarp doesn't show unshared projects anymore :D
+After that, I also spoiled something (still in the wiki). I spoiled the monitor company.
